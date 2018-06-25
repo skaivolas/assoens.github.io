@@ -21,20 +21,4 @@ Francophonie-ENS [télécharger la liste en pdf](assets/FRANCOPHONIE DIRIGEANTS.
 
 <iframe src="assets/PERS-ENS STATUTS.pdf" width="100%" height="200%">Ce navigateur ne supporte pas les fichiers PDF. Veuillez télécharger le PDF pour l'afficher: <a href="assets/PERS-ENS STATUTS.pdf">Télécharger le PDF</a></iframe>
 
-<object data="assets/PERS-ENS STATUTS.pdf" type="application/pdf" width="100%" height="100%">
-<iframe src="assets/PERS-ENS STATUTS.pdf" width="100%" height="100%" style="border: none;">
-Ce navigateur ne supporte pas les fichiers PDF. Veuillez télécharger le PDF pour l'afficher: <a href="assets/PERS-ENS STATUTS.pdf">Télécharger le PDF</a>
-</iframe>
-</object>
-
-<object data="assets/PERS-ENS STATUTS.pdf" type="application/pdf" width="100%" height="100%">
-<iframe src="assets/PERS-ENS STATUTS.pdf" width="100%" height="100%" style="border: none;">
-Ce navigateur ne supporte pas les fichiers PDF. Veuillez télécharger le PDF pour l'afficher: <a href="assets/PERS-ENS STATUTS.pdf">Télécharger le PDF</a>
-</iframe>
-</object>
-
-<object data="assets/PERS-ENS STATUTS.pdf" type="application/pdf" width="100%" height="100%">
-<iframe src="assets/PERS-ENS STATUTS.pdf" width="100%" height="100%" style="border: none;">
-Ce navigateur ne supporte pas les fichiers PDF. Veuillez télécharger le PDF pour l'afficher: <a href="assets/PERS-ENS STATUTS.pdf">Télécharger le PDF</a>
-</iframe>
-</object>
+<iframe src="assets/FRANCOPHONIE STATUTS.pdf" width="100%" height="200%">Ce navigateur ne supporte pas les fichiers PDF. Veuillez télécharger le PDF pour l'afficher: <a href="assets/FRANCOPHONIE STATUTS.pdf">Télécharger le PDF</a></iframe>

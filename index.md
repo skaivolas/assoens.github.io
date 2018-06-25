@@ -6,13 +6,17 @@ layout: default
 
 ## Statuts
 
-Pers-ENS [pdf](assets/PERS-ENS STATUTS.pdf)
+Pers-ENS [télécharger les statuts en pdf](assets/PERS-ENS STATUTS.pdf)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Francophonie-ENS [télécharger les statuts en pdf](assets/FRANCOPHONIE STATUTS.pdf)
 
-## Francophonie-ENS
+
+## Listes des dirigeants
+
+Pers-ENS [télécharger la liste en pdf](assets/PERS-ENS DIRIGEANTS.pdf)
+
+Francophonie-ENS [télécharger la liste en pdf](assets/FRANCOPHONIE DIRIGEANTS.pdf)
+
 
 ```js
 // Javascript code with syntax highlighting.
